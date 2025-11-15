@@ -1,0 +1,3 @@
+name : claude
+password : HASHED_lounou
+age : 24
